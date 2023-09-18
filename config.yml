@@ -1,0 +1,39 @@
+kitchen-appliances:
+  冷蔵庫:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/冷蔵庫
+    models:
+    - クーリングアシスト
+  レンジ:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/オーブンレンジ
+    models:
+    - NE-UBS10A
+    - NE-UBS5A
+    - NE-BS2700
+    - NE-CBS2700
+    - NE-BS2600
+    - NE-BS1600
+    - NE-BS1500
+    - NE-BS1400
+    - NE-BS1300
+  ベーカリー:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/ベーカリー
+    models:
+  炊飯器:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/炊飯器
+    models:
+    - JUGSAN
+  IH:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/IH
+    models:
+  電気圧力なべ:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/電気圧力なべ
+    models:
+  トースター:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/トースター
+    models:
+  卓上IH調理器:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/卓上IH調理器
+    models:
+  オートクッカー:
+    url: https://www.eatpick.com/kitchen-appliances/index-appliance/オートクッカー
+    models:
